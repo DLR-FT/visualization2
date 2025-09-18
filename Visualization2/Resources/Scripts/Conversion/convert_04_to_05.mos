@@ -1,0 +1,217 @@
+
+convertModifiers("Visualization2.Shapes.Files.CADFile",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Files.CADArray",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Files.FlexibleBody",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Cube",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Sphere",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Cylinder",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Cone",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Capsule",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Plane",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Prism",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Icosahedron",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Primitives.Dodecahedron",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.HollowCone",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Tube",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.GearWheel",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Spring",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.ExtrudedShape",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Pipe",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Surface",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Line",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Parameterized.Beam",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.TextureTargets.TexturedSurface",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.TextureTargets.DepthMesh",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Billboards.Text",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Shapes.Billboards.ValueText",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Lights.PointLight",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Lights.SpotLight",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Lights.DirectionalLight",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Label",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.ValueLabel",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Image",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Polygon",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Line",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.TextureTarget",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Interaction",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Draggable",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Visualizers.Marker",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Visualizers.Arrow",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.Bar",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.BarArray",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.RadioButton",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.ToggleButton",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.CheckBox",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.TextButton",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.ImageButton",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.PolygonButton",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderReal",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderInteger",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Gauges.RollingNumber",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color=%colorTimeVariant%"}, true)
+
+convertModifiers("Visualization2.Overlays.Gauges.Scale",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color=%colorTimeVariant%"}, true)
+
+convertModifiers("Visualization2.Overlays.Miscellaneous.GraphicalJoystick",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Overlays.Miscellaneous.Window",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Visualizers.Arrows.Arrow",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+
+convertModifiers("Visualization2.Visualizers.Arrows.RotationalArrow",
+    {"color={255,255,255}", "useTimeVariantColor=false","colorTimeVariant={255,255,255}"},
+    {"iconColor=%color%","color= if %useTimeVariantColor% then %colorTimeVariant% else %color%"}, true)
+

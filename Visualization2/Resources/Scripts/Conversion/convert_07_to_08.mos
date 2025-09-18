@@ -1,0 +1,24 @@
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.combined",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Stretch"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.horizontal",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Horizontal"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.vertical",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Vertical"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.shortest",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Shortest"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.longest",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Longest"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.absolute",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Absolute"),
+convertClass(
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.camera",
+    "Visualization2.Overlays.Internal.Types.ResizePolicy.Camera"),
+convertClass(
+    "Visualization2.Cameras.Internal.Types.OverlayResizePolicy.Combined",
+    "Visualization2.Cameras.Internal.Types.OverlayResizePolicy.Stretch"),

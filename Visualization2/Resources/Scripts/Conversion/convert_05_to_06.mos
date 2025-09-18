@@ -1,0 +1,100 @@
+
+convertModifiers("Visualization2.Environments.SimpleEnvironment",
+    {"sunDirection={1,1,1}"},
+    {"sunLightDirection=-%sunDirection%"}, true)
+
+convertModifiers("Visualization2.Environments.AtmosphericEnvironment",
+    {"sunDirection={1,1,1}"},
+    {"sunLightDirection=-%sunDirection%"}, true)
+
+convertModifiers("Visualization2.Environments.SkyBoxEnvironment",
+    {"sunDirection={1,1,1}"},
+    {"sunLightDirection=-%sunDirection%"}, true)
+
+convertElement("Visualization2.Lights.DirectionalLight",
+    "direction",
+    "lightDirection")
+
+convertElement("Visualization2.Shapes.Files.CADFile",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Files.CADArray",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Files.FlexibleBody",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Cube",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Sphere",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Cylinder",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+    
+convertElement("Visualization2.Shapes.Primitives.Cone",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Capsule",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Plane",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Prism",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Icosahedron",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Primitives.Dodecahedron",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.HollowCone",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.Tube",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.GearWheel",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.Spring",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.ExtrudedShape",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.Pipe",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.Beam",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+
+convertElement("Visualization2.Shapes.Parameterized.Surface",
+    "wireFrameTransparency",
+    "wireframeTransparency")
+    
+convertElement("Visualization2.Shapes.TextureTargets.DepthMesh",
+    "wireFrameTransparency",
+    "wireframeTransparency")

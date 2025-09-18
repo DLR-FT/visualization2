@@ -1,0 +1,4 @@
+convertElement(
+    "Visualization2.Shapes.Parameterized.Line",
+    "lineInterface.visType",
+    "lineInterface.lineType")

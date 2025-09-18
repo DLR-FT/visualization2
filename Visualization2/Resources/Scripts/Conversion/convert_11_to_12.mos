@@ -1,0 +1,9 @@
+convertModifiers("Visualization2.Shapes.Parameterized.Surface",
+    {"useShading=true"},
+    {"emission=not %useShading%"}, true)
+convertModifiers("Visualization2.Shapes.TextureTargets.TexturedSurface",
+    {"useShading=false"},
+    {"emission=not %useShading%"}, true)
+convertModifiers("Visualization2.Shapes.TextureTargets.DepthMesh",
+    {"useShading=false"},
+    {"emission=not %useShading%"}, true)

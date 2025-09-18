@@ -1,0 +1,140 @@
+******* [ starting SimVis ] *******
+* Version information:
+Version : 1.1.0 - RELEASE
+Compile time: 
+Protocol version: 8 hash: 93039d85
+
+---- Engine ----
+Version: 2.13.0.0 Sep 12 2025
+Binary: Windows 64-bit Visual C++ 1944 Release
+Engine features: OpenGL4.5 Direct3D11 OpenAL XPad360 Joystick DoubleCoords HalfTexCoords OpenEXR Geodetic CustomApp
+
+---- Configs ----
+Loading boot config "D:/Code/Visualization2-Release/Resources/SimVis/data/configs/default.boot"...
+Loading user config "D:/Code/Visualization2-Release/Resources/SimVis/data/configs/default.user"...
+WARNING:	
+WARNING:	Xml::printUnusedData(): Unused in file:"configs/default.user"
+WARNING:		Unused in node:"show_messages"	data:"0"
+WARNING:	
+Using config file "configs/default.config"
+Using boot config file "configs/default.boot"
+Using user config file "configs/default.user"
+Using controls config file "configs/default.controls"
+
+---- GPU Detection ----
+GPU 0 Active: NVIDIA GeForce RTX 4090 Laptop GPU 16050 MB
+GPU 1		: Microsoft Basic Render Driver 32646 MB
+
+---- System ----
+OS:		Windows 10 (build 22631) 64-bit
+
+CPU:	13th Gen Intel(R) Core(TM) i9-13950HX
+		Frequency: 2419MHz
+		Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+		Cores:24 Threads:32
+
+		System memory: 65292 MB
+		Sync threads:  31
+		Async threads: 24
+
+GPU:	NVIDIA GeForce RTX 4090 Laptop GPU
+		Video memory:  16050 MB
+
+
+---- Plugins ----
+Loading "AssimpImporter_double_x64.dll"...
+Loading "GltfImporter_double_x64.dll"...
+Plugins initialization: 418ms
+
+
+---- Application ----
+Loading "dxgi.dll"...
+Loading "openal32.dll"...
+ERROR:	ALWrapper::init(): can't load "openal32.dll" library. System error - 126.
+Set 1x1 fullwindow video mode
+Application initialization: 245ms
+
+
+
+---- Render ----
+Renderer: NVidia 16050MB
+Renderer API: Direct3D 11.0
+Maximum texture size:    16384
+Maximum texture units:   16
+
+---- Filesystem ----
+App path:  D:/Code/Visualization2-Release/Resources/SimVis/Windows/
+Data path: D:/Code/Visualization2-Release/Resources/SimVis/data/
+Save path: D:/Code/Visualization2-Release/Resources/SimVis/Windows/
+
+Runtimes loaded: 0 0ms
+Filesystem initialization: 384ms
+
+---- Sound ----
+NULL
+
+---- Physics ----
+
+---- PathFind ----
+
+Loading controls "D:/Code/Visualization2-Release/Resources/SimVis/data/configs/default.controls"...
+Loading "xinput1_4.dll"...
+Loading config "D:/Code/Visualization2-Release/Resources/SimVis/data/configs/default.config"...
+
+---- Materials ----
+Engine base materials loaded: 176 / 176 (734ms)
+Engine materials loaded:      68 / 68 (11ms)
+User base materials loaded:   20 / 20 (387ms)
+Total materials: 264
+
+
+---- Properties ----
+Properties loaded:            2 / 2 (0ms)
+
+Processor registered "DefaultProcessor".
+Importer registered "AssimpImporter".
+Importer registered "GLTFImporter".
+Set 1920x1080 windowed video mode
+Engine initialization: 2684ms
+
+
+Loading settings at "C:\Users\kuem_se\AppData\Roaming/DLR/Visualization2.json"
+SimVis # show_fps 0
+Loading "Interface_double_x64.dll"...
+SimVis # show_fps 0
+New client connection from: FT-FRS-SEKNB.intra.dlr.de:63521
+Client disconnected: FT-FRS-SEKNB.intra.dlr.de:63521
+---- License Information ---- 
+Dongle ID: 13953162
+The license was acquired via network
+license server: ft-frs-server01.intra.dlr.de:8765
+License expiration date: unlimited
+Dongle label: DLRSR
+---- Interpreter ----
+Version: 2.90
+
+Script loading "SimVis/unigine.usc" 115ms
+Loading "core/locale/unigine.locale" dictionary 0ms
+Script loading "SimVis/SimVis.cpp" 2ms
+World loading "SimVis/SimVis.world" 29ms
+SimVis # show_fps 0
+Loading settings at "C:\Users\kuem_se\AppData\Roaming/DLR/Visualization2.json"
+SimVis # show_fps 0
+Switching to online mode
+Switching to replay mode
+******* [ SimVis shutdown ] *******
+Importer unregistered "GLTFImporter".
+Importer unregistered "AssimpImporter".
+ERROR:	D3D11RenderContext::destroyContext(): 28 unreleased references
+Total RAM:           10.3 MB
+- system RAM used:   2.5 MB
+- pool RAM reserved: 7.8 MB
+- pool RAM used:     2.0 MB
+Total allocs:        132521
+- system allocs:     756
+- 16b pool allocs:   131381
+- 32b pool allocs:   323
+- 64b pool allocs:   61
+
+
+Shutdown

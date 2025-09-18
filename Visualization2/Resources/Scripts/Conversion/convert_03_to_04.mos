@@ -1,0 +1,137 @@
+convertModifiers("Visualization2.Overlays.Basic.Label",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.ValueLabel",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Image",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Polygon",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Line",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.TextureTarget",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Interaction",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Basic.Draggable",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Visualizers.Marker",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Visualizers.Arrow",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Visualizers.Grid",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.Bar",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.BarArray",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.LabelArray",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Graphs.ValueLabelArray",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.RadioButton",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.ToggleButton",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.CheckBox",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.TextButton",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.ImageButton",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Buttons.PolygonButton",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderReal",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderInteger",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderRealArray",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Sliders.SliderIntegerArray",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Gauges.RoundInstrument",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Gauges.RollingNumber",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Gauges.Scale",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Miscellaneous.GraphicalJoystick",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertModifiers("Visualization2.Overlays.Miscellaneous.Window",
+    {"overlayGroup"},
+    {"visibilityMask=Visualization2.Internal.Records.Mask(group1=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group1==%overlayGroup%,group2=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group2==%overlayGroup%,group3=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group3==%overlayGroup%,group4=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group4==%overlayGroup%,group5=Visualization2.Overlays.Internal.Types.OverlaysGroup.Group5==%overlayGroup%)"}, true)
+
+convertElement("Visualization2.Cameras.FixedCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.FreeCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.EgoCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.AttachedCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.FollowCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.DynamicFollowCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.VRCamera", "displayedOverlayGroups", "overlayMask")
+
+convertElement("Visualization2.Cameras.OverlayCamera", "displayedOverlayGroups", "overlayMask")
+
+convertClass("Visualization2.Cameras.Internal.Records.OverlayVisibility","Visualization2.Internal.Records.Mask")
